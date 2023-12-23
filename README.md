@@ -12,7 +12,7 @@
 [languages]: https://github-readme-stats.vercel.app/api/top-langs?username=iamandrewluca&layout=compact&theme=synthwave
 
 [![twitter]](https://twitter.com/iamandrewluca)
-[![youtube]](https://www.youtube.com/channel/UCqYJyrFXBlscN_xJ9rqCesQ)
+[![youtube]](https://www.youtube.com/@iamandrewluca)
 [![linkedin]](https://www.linkedin.com/in/iamandrewluca/)
 [![devdotto]](https://dev.to/iamandrewluca/)
 [![telegram]](https://t.me/iamandrewluca/)
